@@ -12,6 +12,7 @@ public class BooleanDemo {
 		
 		System.out.println(Boolean.valueOf(b1));
 		System.out.println(Boolean.valueOf(b2));
+		System.out.println(Boolean.valueOf(b3));
 	}
 
 }
